@@ -2,7 +2,7 @@
 
 事件数据是重要的信息来源之一，是监控中不可缺少的一种数据种类。
 
-具体事件种类查看[数据模型-事件数据](../../Architecture/datamodule.md)
+具体事件种类查看[数据模型-事件数据](../../ProductArchitecture/datamodule.md)
 
 ## 事件数据与其他数据的区别
 
