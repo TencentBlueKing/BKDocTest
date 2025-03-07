@@ -93,7 +93,7 @@ windows的路径为 c:/gse/plugins/etc/bkmonitorbeat.conf
 ## 第三步： 配置告警策略
 
 
-如果监控进程的指标，默认会采集如下进程的指标[主机-进程-指标](./process-metrics.md)
+如果监控进程的指标，默认会采集如下进程的指标[主机-进程-指标](./process_metrics.md)
 
 
 ## 相关文档
