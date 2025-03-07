@@ -86,7 +86,7 @@ if delta_seconds > 11 * 24 * 3600:
 list_two = []
 for v in list_one:
     if v[0]:
-        new_list.append(v[1])
+        list_two.append(v[1])
 
 # GOOD one
 list_two = [v[1] for v in list_one if v[0]]
