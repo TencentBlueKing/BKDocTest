@@ -1,11 +1,5 @@
 # BK-CI 系统要求
-
-<<<<<<< HEAD:ZH/Devops/2.0/产品白皮书/Setup/system-requirements/system.md
-我们提供了以最小化硬件成本搭建起 BK-CI 的最低要求。如果你正尝试将 BK-CI 投入生产环境，请仔细阅读：[BK-CI 硬件规格指南](hardware-specifications.md)
-=======
-我们提供了以最小化硬件成本搭建起 BKCI 的最低要求。如果你正尝试将 BKCI 投入生产环境，请仔细阅读：[BKCI 硬件规格指南](hardware.md)
->>>>>>> 51c64cbe653ce5ff064de8dea6a0592fab08002d:ZH/Devops/2.0/UserGuide/Setup/system-requirements/system.md
-
+我们提供了以最小化硬件成本搭建起 BK-CI 的最低要求。如果你正尝试将 BK-CI 投入生产环境，请仔细阅读：[BKCI 硬件规格指南](hardware.md)
 
 ## Web客户端要求
 BK-CI 支持如下主流的浏览器：
